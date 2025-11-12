@@ -1,6 +1,10 @@
-# 🎓 Projeto Académico - Batalha Naval em C ⚓💻
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pssolochi82/BatalhaNaval-C/main/docs/imagens/banner_batalha-naval.png" 
+       alt="Banner do Projeto Batalha Naval em C" width="800">
+</p>
 
-![Banner do Projeto Batalha Naval](docs/imagens/banner-batalha-naval.png)
+
+# 🎓 Projeto Académico - Batalha Naval em C ⚓💻
 
 
 Este projeto foi desenvolvido no âmbito das aulas do **Curso Técnico de Programação (IEFP 2025/2026)**.  
