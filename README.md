@@ -1,5 +1,8 @@
 # 🎓 Projeto Académico - Batalha Naval em C ⚓💻
 
+![Banner do Projeto Batalha Naval](docs/imagens/banner-batalha-naval.png)
+
+
 Este projeto foi desenvolvido no âmbito das aulas do **Curso Técnico de Programação (IEFP 2025/2026)**.  
 O objetivo foi praticar a **construção e manipulação de matrizes em C** através da implementação do jogo **Batalha Naval** numa grelha 6x6.
 
